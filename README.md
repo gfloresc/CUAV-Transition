@@ -1,7 +1,7 @@
 # CUAV-Transition
 A nonlinear smooth control solves the transition maneuver problem.
 
-This repository gives a solution to the problem of transition maneuver in the  <a href="https://www.sciencedirect.com/science/article/pii/S0019057821002408">CUAV VTOL platform</a>. It is based on the <a href="https://github.com/PX4/PX4-Autopilot">PX4 flight control</a> solution for drones, with the main applications located in the src/modules directory.
+This repository gives a solution to the problem of transition maneuver in the <a href="https://www.sciencedirect.com/science/article/pii/S0019057821002408">CUAV VTOL platform</a>. It is based on the <a href="https://github.com/PX4/PX4-Autopilot">PX4 flight control</a> solution for drones, with the main applications located in the src/modules directory.
 
 Please cite this code as:
 
